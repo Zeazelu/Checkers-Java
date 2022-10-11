@@ -1,0 +1,31 @@
+Sun Jun 14 23:38:15 CEST 2020 > Uruchomienie serwera
+Sun Jun 14 23:38:15 CEST 2020 > Czekanie na graczy...
+Sun Jun 14 23:38:15 CEST 2020 > Mecz #1: gracz #1 dołączył.
+Sun Jun 14 23:38:15 CEST 2020 > Mecz #1: gracz #2 dołączył.
+Sun Jun 14 23:38:15 CEST 2020 > Mecz #1 się rozpoczą.
+Sun Jun 14 23:38:15 CEST 2020 > Czekanie na graczy...
+Sun Jun 14 23:38:15 CEST 2020 > Mecz #2: gracz #1 dołączył.
+Sun Jun 14 23:38:15 CEST 2020 > Mecz #2: gracz #2 dołączył.
+Sun Jun 14 23:38:15 CEST 2020 > Mecz #2 się rozpoczą.
+Sun Jun 14 23:38:15 CEST 2020 > Czekanie na graczy...
+Sun Jun 14 23:38:15 CEST 2020 > Mecz #3: gracz #1 dołączył.
+Sun Jun 14 23:38:15 CEST 2020 > Mecz #3: gracz #2 dołączył.
+Sun Jun 14 23:38:15 CEST 2020 > Mecz #3 się rozpoczą.
+Sun Jun 14 23:38:54 CEST 2020 > Uruchomienie serwera
+Sun Jun 14 23:38:54 CEST 2020 > Czekanie na graczy...
+Sun Jun 14 23:38:54 CEST 2020 > Mecz #1: gracz #1 dołączył.
+Sun Jun 14 23:38:54 CEST 2020 > Mecz #1: gracz #2 dołączył.
+Sun Jun 14 23:38:54 CEST 2020 > Mecz #1 się rozpoczą.
+Sun Jun 14 23:38:54 CEST 2020 > Czekanie na graczy...
+Sun Jun 14 23:38:54 CEST 2020 > Mecz #2: gracz #1 dołączył.
+Sun Jun 14 23:38:54 CEST 2020 > Mecz #2: gracz #2 dołączył.
+Sun Jun 14 23:38:54 CEST 2020 > Mecz #2 się rozpoczą.
+Sun Jun 14 23:45:37 CEST 2020 > Uruchomienie serwera
+Sun Jun 14 23:45:37 CEST 2020 > Czekanie na graczy...
+Sun Jun 14 23:45:37 CEST 2020 > Mecz #1: gracz #1 dołączył.
+Sun Jun 14 23:45:37 CEST 2020 > Mecz #1: gracz #2 dołączył.
+Sun Jun 14 23:45:37 CEST 2020 > Mecz #1 się rozpoczą.
+Sun Jun 14 23:45:37 CEST 2020 > Czekanie na graczy...
+Sun Jun 14 23:45:37 CEST 2020 > Mecz #2: gracz #1 dołączył.
+Sun Jun 14 23:45:37 CEST 2020 > Mecz #2: gracz #2 dołączył.
+Sun Jun 14 23:45:37 CEST 2020 > Mecz #2 się rozpoczą.
